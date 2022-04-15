@@ -47,11 +47,16 @@ def originalText(cipher_text, key):
 print(originalText(toto, key))
 
 
-#def isUpperNotUpper(message):
+def ifMessageIsOkay(message,key):
 
 
 
-# for i in message:
+
+
+
+
+
+#for i in message:
 # indexMessage = ord(i)
 # for x in cle:
 # indexCle = ord(x)
